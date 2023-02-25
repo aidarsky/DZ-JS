@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<style>
+    body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+    }
+    .wrapper > div {
+        display: flex;
+        flex-direction: column;
+    }
+    .usd {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    input {
+        padding: 10px 20px;
+    }
+    label {
+        font-size: 20px;
+    }
+</style>
+</head>
+<body>
+
+<label for="som">Сом (SOM):</label>
+<input type="text" id="som" oninput="convert('som')" />
+
+<label for="usd">Доллар (USD):</label>
+<input type="text" id="usd" oninput="convert('usd')" />
+
+<label for="eur">Евро (EUR):</label>
+<input type="text" id="eur" oninput="convert('eur')" />
+
+</body>
+</html>
+
+</body>
+<script src="app.js"></script>
+</html>
