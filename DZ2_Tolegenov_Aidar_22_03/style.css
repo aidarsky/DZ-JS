@@ -1,0 +1,13 @@
+.big-square {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    border: solid;
+}
+
+.small-square {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
