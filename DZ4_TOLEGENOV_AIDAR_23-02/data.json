@@ -1,0 +1,122 @@
+[
+  {
+    "img": "https://via.placeholder.com/100x70.png?text=Product+1",
+    "title": "Продукт 1",
+    "description": "Бытовая техника",
+    "price": "$19.99"
+  },
+  {
+    "img": "https://via.placeholder.com/100x70.png?text=Product+2",
+    "title": "Продукт 2",
+    "description": "Бытовая техника",
+    "price": "$29.99"
+  },
+  {
+    "img": "https://via.placeholder.com/100x70.png?text=Product+3",
+    "title": "Продукт 3",
+    "description": "Бытовая техника",
+    "price": "$39.99"
+  },
+  {
+    "img": "https://via.placeholder.com/100x70.png?text=Product+4",
+    "title": "Продукт 4",
+    "description": "Бытовая техника",
+    "price": "$49.99"
+  },
+  {
+    "img": "https://via.placeholder.com/100x70.png?text=Product+5",
+    "title": "Продукт 5",
+    "description": "Бытовая техника",
+    "price": "$59.99"
+  },
+  {
+    "img": "https://via.placeholder.com/100x70.png?text=Product+6",
+    "title": "Продукт 6",
+    "description": "Бытовая техника",
+    "price": "$69.99"
+  },
+  {
+    "img": "https://via.placeholder.com/100x70.png?text=Product+7",
+    "title": "Продукт 7",
+    "description": "Бытовая техника",
+    "price": "$79.99"
+  },
+  {
+    "img": "https://via.placeholder.com/100x70.png?text=Product+8",
+    "title": "Продукт 8",
+    "description": "Бытовая техника",
+    "price": "$89.99"
+  },
+  {
+    "img": "https://via.placeholder.com/100x70.png?text=Product+9",
+    "title": "Продукт 9",
+    "description": "Бытовая техника",
+    "price": "$99.99"
+  },
+  {
+    "img": "https://via.placeholder.com/100x70.png?text=Product+10",
+    "title": "Продукт 10",
+    "description": "Бытовая техника",
+    "price": "$19.99"
+  },
+  {
+    "img": "https://via.placeholder.com/100x70.png?text=Product+11",
+    "title": "Продукт 11",
+    "description": "Бытовая техника",
+    "price": "$29.99"
+  },
+  {
+    "img": "https://via.placeholder.com/100x70.png?text=Product+12",
+    "title": "Продукт 12",
+    "description": "Бытовая техника",
+    "price": "$39.99"
+  },
+  {
+    "img": "https://via.placeholder.com/100x70.png?text=Product+13",
+    "title": "Продукт 13",
+    "description": "Бытовая техника",
+    "price": "$49.99"
+  },
+  {
+    "img": "https://via.placeholder.com/100x70.png?text=Product+14",
+    "title": "Продукт 14",
+    "description": "Бытовая техника",
+    "price": "$59.99"
+  },
+  {
+    "img": "https://via.placeholder.com/100x70.png?text=Product+15",
+    "title": "Продукт 15",
+    "description": "Бытовая техника",
+    "price": "$69.99"
+  },
+  {
+    "img": "https://via.placeholder.com/100x70.png?text=Product+16",
+    "title": "Продукт 16",
+    "description": "Бытовая техника",
+    "price": "$79.99"
+  },
+  {
+    "img": "https://via.placeholder.com/100x70.png?text=Product+17",
+    "title": "Продукт 17",
+    "description": "Бытовая техника",
+    "price": "$89.99"
+  },
+  {
+    "img": "https://via.placeholder.com/100x70.png?text=Product+18",
+    "title": "Продукт 18",
+    "description": "Бытовая техника",
+    "price": "$99.99"
+  },
+  {
+    "img": "https://via.placeholder.com/100x70.png?text=Product+19",
+    "title": "Продукт 19",
+    "description": "Бытовая техника",
+    "price": "$99.99"
+  },
+  {
+    "img": "https://via.placeholder.com/100x70.png?text=Product+20",
+    "title": "Продукт 20",
+    "description": "Бытовая техника",
+    "price": "$99.99"
+  }
+  ]
